@@ -2,7 +2,7 @@
 
 This guide will walk you through the steps to set up the environment and run the necessary Python scripts for analyzing BANKNIFTY data.\
 \
-All the commands have been executed. The results are already present and can be readily viewed. The commands are given to replicate the same results.
+All the commands have been executed. The results are already present and can be viewed readily. The commands are given to replicate the same results.
 
 ## Prerequisites
 
