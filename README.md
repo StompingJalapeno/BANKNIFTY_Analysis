@@ -1,6 +1,7 @@
 # BANKNIFTY Analysis Setup Guide
 
-This guide will walk you through the steps to set up the environment and run the necessary Python scripts for analyzing BANKNIFTY data.
+This guide will walk you through the steps to set up the environment and run the necessary Python scripts for analyzing BANKNIFTY data.\
+\
 All the commands have been executed and the results are already present and can be readily viewed. The commands are given to replicate the same results.
 
 ## Prerequisites
