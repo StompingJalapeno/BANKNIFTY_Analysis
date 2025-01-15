@@ -1,5 +1,4 @@
-Here's a properly formatted markdown file for the steps you provided:
-
+All the commands have been executed and the results are already present and can be readily viewed. The commands are given to replicate the same results.
 
 # BANKNIFTY Analysis Setup Guide
 
